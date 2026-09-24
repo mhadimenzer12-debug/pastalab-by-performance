@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhadimenzer12-debug.github.io/pastalab-by-performance/sitemap.xml
